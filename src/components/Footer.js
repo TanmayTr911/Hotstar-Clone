@@ -5,7 +5,7 @@ let Footer = () => {
   return (
     <Foot>
       <Link to="/aboutUS">AboutUS</Link>
-      <Link to="/Help">Help&FeedBack</Link>v
+      <Link to="/Help">Help&FeedBack</Link>
     </Foot>
   );
 };

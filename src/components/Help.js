@@ -32,7 +32,7 @@ let Help = () => {
           </p>
 
           <p>
-            <button>Submit</button>
+            <button onClick={submitHandler}>Submit</button>
           </p>
         </form>
       </span>

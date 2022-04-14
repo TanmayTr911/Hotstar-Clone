@@ -22,20 +22,20 @@ let Header = (props) => {
             <span>HOME</span>
           </Link>
 
-          <a>
+          <Link to="/Search">
             <img src="/images/search-icon.svg"></img>
             <span>SEARCH</span>
-          </a>
+          </Link>
 
           <a>
             <img src="/images/watchlist-icon.svg"></img>
             <span>WATCHLIST</span>
           </a>
 
-          <a>
+          <Link to="Movies">
             <img src="/images/movie-icon.svg"></img>
             <span>MOVIES</span>
-          </a>
+          </Link>
 
           <a>
             <img src="/images/series-icon.svg"></img>

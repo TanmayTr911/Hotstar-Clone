@@ -18,7 +18,7 @@ let Header = (props) => {
 
         <Navt>
           <Link to="/">
-            <img src="/images/home-icon.svg"></img>
+            <img src="images/home-icon.svg"></img>
             <span>HOME</span>
           </Link>
 

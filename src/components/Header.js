@@ -82,6 +82,8 @@ const Navt = styled.div`
     align-items: center;
     text-decoration: none;
     cursor: pointer;
+    color:white;
+
 
     img {
       margin-left: 20px;

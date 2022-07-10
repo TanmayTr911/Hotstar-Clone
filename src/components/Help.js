@@ -8,7 +8,7 @@ let Help = () => {
     event.preventDefault();
 
     const res = await fetch(
-      "https://hotstar-help-default-rtdb.firebaseio.com/issues.json",
+      "https://hotstarclone-help-section-default-rtdb.firebaseio.com",
       {
         method: "POST",
         body: JSON.stringify(issue.current.value),
